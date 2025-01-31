@@ -14,7 +14,6 @@ public class Solution {
             else {
                 j = 0;
                 i = ind + 1;
-                
             }
         }
         return -1;
